@@ -4,11 +4,13 @@ import ReactDOM from 'react-dom';
 // import PageTwo from './pageTwo';
 // import NotFoundPage from './notFoundPage';
 import Header from './header';
+import Navbar from './navbar';
+
 
 const App = () => (
   <div>
     <Header />
-    {/* <Navbar /> */}
+    <Navbar />
     {/* <Hero /> */}
     {/* <Footer/> */}
   </div>

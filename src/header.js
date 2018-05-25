@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Header = () => (
-  <div>
+  <div className='header'>
     <div className='fin-logo'>[FinExpert]</div>
     <div className='icon1'>
       <img src='/assets/img/location-icon.png'/>
