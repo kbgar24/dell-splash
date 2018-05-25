@@ -5,13 +5,15 @@ import ReactDOM from 'react-dom';
 // import NotFoundPage from './notFoundPage';
 import Header from './header';
 import Navbar from './navbar';
+import Hero from './hero';
+
 
 
 const App = () => (
   <div>
     <Header />
     <Navbar />
-    {/* <Hero /> */}
+    <Hero />
     {/* <Footer/> */}
   </div>
 );
